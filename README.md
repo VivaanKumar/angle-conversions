@@ -1,5 +1,7 @@
 # Angle Conversions
 
+https://www.npmjs.com/package/angle-conversions
+
 
 ### Angle between two points
 ```

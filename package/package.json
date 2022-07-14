@@ -1,0 +1,22 @@
+{
+  "name": "angle-conversions",
+  "version": "1.0.0",
+  "description": "Angle unit converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VivaanKumar/angle-conversions.git"
+  },
+  "keywords": [
+    "angles"
+  ],
+  "author": "Vivaan Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VivaanKumar/angle-conversions/issues"
+  },
+  "homepage": "https://github.com/VivaanKumar/angle-conversions#readme"
+}
